@@ -1,4 +1,4 @@
-function add (80 + 1) {
+function add () {
   return 
 } // 81
 function subtract () {
