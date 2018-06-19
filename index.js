@@ -1,5 +1,5 @@
 function add () {
-  return 1100 + 95
+  return 641
 } // 81
 function subtract () {
   60 - 40
