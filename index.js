@@ -1,13 +1,12 @@
 function add (a, b) {
   return a + b
-} // 81
-function subtract () {
-  60 - 40
-} // 20
-
-function multiply () {
-  2 * 3.4
-} // 6.8 (there's that floating-point arithmetic again...)
-function divide() {
-  5.0 / 2.5
+} 
+function subtract (a, b) {
+  a - b
+} 
+function multiply (a, b) {
+  a * b
+} 
+function divide(a, b) {
+  a / b
 }
